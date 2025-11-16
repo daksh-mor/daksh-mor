@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as research intern CogAi4Sci@NUS<br>🌱 I’m currently learning Machine learning <br>💬 Ask me about pc games<br>⚡ Fun fact : I lost 10 times consecutively in valorant without being toxic
+I’m currently learning Machine learning 
 
 
 ## 🌐 Socials:
